@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://raw.githubusercontent.com/LucianoTreachi/Luciano-Guitar-Beats/main/img/readme/banner.jpg" width="100%" alt="Banner"/>
+  <img src="https://raw.githubusercontent.com/LucianoTreachi/eCommerce-Guitarras/main/img/readme/banner.jpg" width="100%" alt="Banner"/>
 </div>
 
 ## Descripción
