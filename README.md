@@ -4,7 +4,7 @@
 
 ## Descripción
 
-<p>Diseñé y desarrollé un eCommerce que vende guitarras</p>
+<p>Diseñé y desarrollé un eCommerce que vende guitarras.</p>
 <p>Cuenta con animaciones, un carrito de compras, modales, validaciones en formularios, una pantalla de éxito, y más.</p>   
 <p>Se adapta perfectamente a cualquier dispositivo: escritorio, tablet y móvil, lo que permite disfrutar de una experiencia de usuario fluida y cómoda en cualquier momento y en cualquier lugar.</p> 
 
