@@ -1101,7 +1101,7 @@ SECCION PAGAR
 .pagar .pago {
   font-size: 1.6rem;
   color: var(--negro);
-  border: .2rem solid var(--negro);
+  border: 2px solid #e1e1e2;
   border-radius: .5rem;
   padding: 5rem 0;
   animation: scale 1s cubic-bezier(0.165, 0.840, 0.440, 1.000) forwards;
@@ -1136,7 +1136,7 @@ SECCION DATOS USUARIO
   gap: 2rem;
   font-size: 1.6rem;
   color: var(--negro);
-  border: .2rem solid var(--negro);
+  border: 2px solid #e1e1e2;
   border-radius: .5rem;
   padding: 5rem 2rem;
   opacity: 0;
@@ -1197,7 +1197,7 @@ select {
   outline: none;
   border: 0;
   background: none;
-  border: .2rem solid #515151;
+  border: 2px solid #e1e1e2;
   border-radius: .5rem;
 }
 
