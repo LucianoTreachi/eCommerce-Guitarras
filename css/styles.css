@@ -857,7 +857,7 @@ MODAL ELIMINAR PRODUCTO
   display: flex;
   justify-content: flex-end;
   gap: 2rem;
-  background-color: #e3edfb;
+  background-color: #eff3f6;
 }
 
 .modal-eliminar-producto .contenedor-botones button {
@@ -902,7 +902,7 @@ MODAL VACIAR CARRITO
   gap: 2rem;
   margin-top: 3rem;
   padding: 2rem;
-  background-color: #e3edfb;
+  background-color: #eff3f6;
 }
 
 .modal-vaciar-carrito .contenedor-botones button {
@@ -947,7 +947,7 @@ MODAL CANCELAR COMPRA
   gap: 2rem;
   margin-top: 3rem;
   padding: 2rem;
-  background-color: #e3edfb;
+  background-color: #eff3f6;
 }
 
 .modal-cancelar-compra .contenedor-botones button {
@@ -993,7 +993,7 @@ MODAL ALERTA FORMULARIO
   gap: 2rem;
   margin-top: 3rem;
   padding: 2rem;
-  background-color: #e3edfb;
+  background-color: #eff3f6;
 }
 
 /*=============================== 
@@ -1537,7 +1537,7 @@ RESPONSIVE
 
   .contenedor-boton {
     display: flex;
-    flex-direction: column-reverse;
+    flex-direction: column;
     gap: 2rem;
     margin-top: 2rem;
   }
