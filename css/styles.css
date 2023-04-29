@@ -840,7 +840,7 @@ MODAL ELIMINAR PRODUCTO
 .modal-eliminar-producto h2 {
   font-size: 2.2rem;
   font-weight: 600;
-  padding-inline: 2rem;
+  padding: 0 2rem;
   margin-bottom: 2rem;
 }
 
@@ -848,7 +848,7 @@ MODAL ELIMINAR PRODUCTO
   font-size: 1.6rem;
   color: var(--negro);
   opacity: .85;
-  padding-inline: 2rem;
+  padding: 0 2rem;
 }
 
 .modal-eliminar-producto .contenedor-botones {
@@ -885,7 +885,7 @@ MODAL VACIAR CARRITO
 .modal-vaciar-carrito h2 {
   font-size: 2.2rem;
   font-weight: 600;
-  padding-inline: 2rem;
+  padding: 0 2rem;
   margin-bottom: 2rem;
 }
 
@@ -893,7 +893,7 @@ MODAL VACIAR CARRITO
   font-size: 1.6rem;
   color: var(--negro);
   opacity: .85;
-  padding-inline: 2rem;
+  padding: 0 2rem;
 }
 
 .modal-vaciar-carrito .contenedor-botones {
@@ -930,7 +930,7 @@ MODAL CANCELAR COMPRA
 .modal-cancelar-compra h2 {
   font-size: 2.2rem;
   font-weight: 600;
-  padding-inline: 2rem;
+  padding: 0 2rem;
   margin-bottom: 2rem;
 }
 
@@ -938,7 +938,7 @@ MODAL CANCELAR COMPRA
   font-size: 1.6rem;
   color: var(--negro);
   opacity: .85;
-  padding-inline: 2rem;
+  padding: 0 2rem;
 }
 
 .modal-cancelar-compra .contenedor-botones {
@@ -976,7 +976,7 @@ MODAL ALERTA FORMULARIO
 .modal-alerta-formulario h2 {
   font-size: 2.2rem;
   font-weight: 600;
-  padding-inline: 2rem;
+  padding: 0 2rem;
   margin-bottom: 2rem;
 }
 
@@ -984,7 +984,7 @@ MODAL ALERTA FORMULARIO
   font-size: 1.6rem;
   color: var(--negro);
   opacity: .85;
-  padding-inline: 2rem;
+  padding: 0 2rem;
 }
 
 .modal-alerta-formulario .contenedor-botones {
@@ -1435,7 +1435,7 @@ RESPONSIVE
   }
 
   .producto .contenedor-botones {
-    padding-inline: 2rem;
+    padding: 0 2rem;
   }
 
   .modal-carrito {
