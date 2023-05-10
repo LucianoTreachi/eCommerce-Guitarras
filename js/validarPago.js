@@ -127,8 +127,7 @@ function validarExpresionesRegularesEfectivo(e) {
 
 /* 2. Eventos para pagar en Efectivo */
 inputs.forEach((input) => {
-  input.addEventListener('focus', validarExpresionesRegularesEfectivo);
-  input.addEventListener('keyup', validarExpresionesRegularesEfectivo);
+  input.addEventListener('input', validarExpresionesRegularesEfectivo);
   input.addEventListener('blur', validarExpresionesRegularesEfectivo);
 });
 
@@ -236,8 +235,7 @@ function validarExpresionesRegularesTarjeta(e) {
 
 /* 2. Eventos para pagar en Efectivo */
 inputs.forEach((input) => {
-  input.addEventListener('focus', validarExpresionesRegularesTarjeta);
-  input.addEventListener('keyup', validarExpresionesRegularesTarjeta);
+  input.addEventListener('input', validarExpresionesRegularesEfectivo);
   input.addEventListener('blur', validarExpresionesRegularesTarjeta);
 });
 

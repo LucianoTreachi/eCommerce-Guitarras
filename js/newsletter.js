@@ -69,8 +69,7 @@ function validarExpresionesRegulares(e) {
 
 /* Eventos */
 inputs.forEach((input) => {
-  input.addEventListener('focus', validarExpresionesRegulares);
-  input.addEventListener('keyup', validarExpresionesRegulares);
+  input.addEventListener('input', validarExpresionesRegulares);
   input.addEventListener('blur', validarExpresionesRegulares);
 });
 
